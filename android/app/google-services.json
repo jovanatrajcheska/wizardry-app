@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819035409014",
+    "project_id": "wizardry-641e8",
+    "storage_bucket": "wizardry-641e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819035409014:android:f3256df59bbcd5aedced57",
+        "android_client_info": {
+          "package_name": "com.example.wizardry_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTuD01V4oikEEeZirrg0Gvr90niNuWUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

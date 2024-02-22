@@ -1,0 +1,2 @@
+
+const screensize = 600; 
